@@ -1,0 +1,10 @@
+C:\Toistorakenteet\Noppa_Heita\Noppa_Heita\obj\Debug\Noppa_Heita.csproj.AssemblyReference.cache
+C:\Toistorakenteet\Noppa_Heita\Noppa_Heita\obj\Debug\Noppa_Heita.Form1.resources
+C:\Toistorakenteet\Noppa_Heita\Noppa_Heita\obj\Debug\Noppa_Heita.Properties.Resources.resources
+C:\Toistorakenteet\Noppa_Heita\Noppa_Heita\obj\Debug\Noppa_Heita.csproj.GenerateResource.cache
+C:\Toistorakenteet\Noppa_Heita\Noppa_Heita\obj\Debug\Noppa_Heita.csproj.CoreCompileInputs.cache
+C:\Toistorakenteet\Noppa_Heita\Noppa_Heita\bin\Debug\Noppa_Heita.exe.config
+C:\Toistorakenteet\Noppa_Heita\Noppa_Heita\bin\Debug\Noppa_Heita.exe
+C:\Toistorakenteet\Noppa_Heita\Noppa_Heita\bin\Debug\Noppa_Heita.pdb
+C:\Toistorakenteet\Noppa_Heita\Noppa_Heita\obj\Debug\Noppa_Heita.exe
+C:\Toistorakenteet\Noppa_Heita\Noppa_Heita\obj\Debug\Noppa_Heita.pdb
